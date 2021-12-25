@@ -8,7 +8,7 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 
 <h2>💬 Connect with me</h2>
 
-<a href="https://www.linkedin.com/in/jos%C3%A9-verd%C3%BA-d%C3%ADaz/"><img align="left" src="https://github.com/Jose-Verdu-Diaz/Jose-Verdu-Diaz/blob/4bf47486d3172df4260458f2e0ac82f2c97d9d98/linkedin.svg" alt="José Verdú Díaz | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-verd%C3%BA-d%C3%ADaz/"><img align="left" src="https://github.com/Jose-Verdu-Diaz/Jose-Verdu-Diaz/blob/4bf47486d3172df4260458f2e0ac82f2c97d9d98/linkedin.svg" alt="José Verdú Díaz | LinkedIn" width="30px"/></a>
 
 <br>
 
