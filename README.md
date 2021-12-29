@@ -21,6 +21,7 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 <h2>📚 I'm currently learning</h2>
 
 - 🐍 PyQt
+  - Reading **_Mastering GUI Programming with Python_** by Alan D. Moore
 
 <h2>💼 Technical Skills</h2>
 
