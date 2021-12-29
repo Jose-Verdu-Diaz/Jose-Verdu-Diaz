@@ -18,6 +18,10 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 - 🍄 Mushroom image classification using deep learning
 - 🖼️ Google Images scrapping
 
+<h2>📚 I'm currently learning</h2>
+
+- 🐍 PyQt
+
 <h2>💼 Technical Skills</h2>
 
 <h3>Languages</h3>
