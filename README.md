@@ -23,6 +23,9 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 - 🐍 PyQt
   - Reading **_Mastering GUI Programming with Python_** by Alan D. Moore
 
+- 📜 PEP-8
+  - Improving my writing style by following the PEP-8 guidelines
+
 <h2>💼 Technical Skills</h2>
 
 <h3>Languages</h3>
