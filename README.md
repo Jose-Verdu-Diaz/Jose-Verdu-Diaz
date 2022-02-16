@@ -15,7 +15,7 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 <h2>🔭 I'm currently working on</h2>
 
 - 🩺 MRI semantic segmentation with deep convolutional networks
-- 🍄 Mushroom image classification using deep learning
+- 🔬 <a href="https://www.fluidigm.com/products-services/instruments/hyperion">Hyperion Imaging</a> analysis with Python
 - 🖼️ Google Images scrapping
 
 <h2>📚 I'm currently learning</h2>
@@ -28,6 +28,14 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 
 - 📜 PEP-8
   - Improving my Python writing style by following the PEP-8 guidelines
+
+<h2>🏆 Achievements</h2>
+
+- **Paper:** *Accuracy of a machine learning muscle MRI-based tool for the diagnosis of muscular dystrophies*, Neurology, 6 feb. 2020, DOI: https://doi.org/10.1212/WNL.0000000000009068
+
+- **Poster:** *Myo-Guide: A new artificial intelligence MRI-based tool to aid diagnosis of patients with muscular dystrophies*, World Muscle Society (24th congress), 2 oct. 2019
+
+- **Poster:** *Clinical outcome study in dysferlinopathy: random forest approach to assess the relationship between baseline muscle MRI and longitudinal functional outcome measures*, World Muscle Society (23th congress), 2 oct. 2018
 
 <h2>💼 Technical Skills</h2>
 
