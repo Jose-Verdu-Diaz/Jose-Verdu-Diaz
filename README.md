@@ -15,7 +15,8 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 <h2>🔭 I'm currently working on</h2>
 
 - 🩺 MRI semantic segmentation with deep convolutional networks
-- 🔬 <a href="https://www.fluidigm.com/products-services/instruments/hyperion">Hyperion Imaging</a> analysis with Python
+- 🔬 <a href="https://www.fluidigm.com/products-services/instruments/hyperion">Hyperion Imaging</a> analysis with Python (<a href="https://github.com/Jose-Verdu-Diaz/hyperion_jvd">repo</a>)
+- 📊 Beautiful project reports from Jupyter html exports (<a href="https://github.com/Jose-Verdu-Diaz/jvd-report">repo</a>)
 - 🖼️ Google Images scrapping
 
 <h2>📚 I'm currently learning</h2>
