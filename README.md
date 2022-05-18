@@ -13,18 +13,6 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 - 🩺 MRI semantic segmentation with deep convolutional networks
 - 🔬 <a href="https://www.fluidigm.com/products-services/instruments/hyperion">Hyperion Imaging</a> analysis with Python (<a href="https://github.com/Jose-Verdu-Diaz/hipo">repo</a>)
 - 📊 Beautiful project reports from Jupyter html exports (<a href="https://github.com/Jose-Verdu-Diaz/jvd-report">repo</a>)
-- 🖼️ Google Images scrapping
-
-<h2>📚 I'm currently learning</h2>
-
-- 🐍 PyQt
-  - Reading **_Mastering GUI Programming with Python_** by Alan D. Moore
-
-- 🧮 Statistics with Python
-  - Reading **_Python for Probability, Statistics, and Machine Learning_** by José Unpingco
-
-- 📜 PEP-8
-  - Improving my Python writing style by following the PEP-8 guidelines
 
 <h2>🏆 Achievements</h2>
 
