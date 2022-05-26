@@ -22,7 +22,7 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 
 <h3>👨🏽‍💼 Congresses</h3>
 
-- **MRI muscle segmentation and muscle disease diagnosis with deep learning**, NUTCRI Live (Newcastle, UK), 27 May 2022
+- **MRI muscle segmentation and muscle disease diagnosis with deep learning**, NUTCRI Live (Newcastle, UK), 27 May 2022 (<a href="https://github.com/Jose-Verdu-Diaz/Jose-Verdu-Diaz/blob/main/documents/NUTCRI_LIVE_2022.pdf">slides</a>)
 
 <h3>📊 Posters</h3>
 
