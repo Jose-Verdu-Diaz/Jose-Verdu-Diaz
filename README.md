@@ -14,10 +14,20 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 - 🔬 <a href="https://www.fluidigm.com/products-services/instruments/hyperion">Hyperion Imaging</a> analysis with Python (<a href="https://github.com/Jose-Verdu-Diaz/hipo">repo</a>)
 - 📊 Beautiful project reports from Jupyter html exports (<a href="https://github.com/Jose-Verdu-Diaz/jvd-report">repo</a>)
 
-<h2>🏆 Achievements</h2>
+<h2>🖋 Scientific Production</h2>
 
-- **Paper:** *Accuracy of a machine learning muscle MRI-based tool for the diagnosis of muscular dystrophies*, Neurology, 6 feb. 2020, DOI: https://doi.org/10.1212/WNL.0000000000009068
+<h3>📄 Papers</h3>
 
-- **Poster:** *Myo-Guide: A new artificial intelligence MRI-based tool to aid diagnosis of patients with muscular dystrophies*, World Muscle Society (24th congress), 2 oct. 2019
+- **Accuracy of a machine learning muscle MRI-based tool for the diagnosis of muscular dystrophies**, Neurology, 6 Feb. 2020, *DOI: https://doi.org/10.1212/WNL.0000000000009068*
 
-- **Poster:** *Clinical outcome study in dysferlinopathy: random forest approach to assess the relationship between baseline muscle MRI and longitudinal functional outcome measures*, World Muscle Society (23th congress), 2 oct. 2018
+<h3>👨🏽‍💼 Congresses</h3>
+
+- **MRI muscle segmentation and muscle disease diagnosis with deep learning**, NUTCRI Live (Newcastle, UK), 27 May 2022
+
+<h3>📊 Posters</h3>
+
+- **Implementation of an Artificial Intelligence module on the online imaging portal MYO-Share for guiding the diagnosis of muscle diseases** (Co-Author), NUTCRI Live (Newcastle, UK), 27 May 2022
+
+- **Myo-Guide: A new artificial intelligence MRI-based tool to aid diagnosis of patients with muscular dystrophies** (Co-Author), World Muscle Society (Copenhagen, Denmark), 1-5 Oct. 2019
+
+- **Clinical outcome study in dysferlinopathy: random forest approach to assess the relationship between baseline muscle MRI and longitudinal functional outcome measures** (Co-Author), World Muscle Society (Mendoza, Argentina), 2-6 Oct. 2018
