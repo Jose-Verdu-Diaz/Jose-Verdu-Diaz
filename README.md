@@ -26,7 +26,7 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 
 <h3>📊 Posters</h3>
 
-- **Implementation of an Artificial Intelligence module on the online imaging portal MYO-Share for guiding the diagnosis of muscle diseases** (Co-Author), NUTCRI Live (Newcastle, UK), 27 May 2022
+- **Implementation of an Artificial Intelligence module on the online imaging portal MYO-Share for guiding the diagnosis of muscle diseases** (Co-Author), NUTCRI Live (Newcastle, UK), 27 May 2022 (<a href="https://github.com/Jose-Verdu-Diaz/Jose-Verdu-Diaz/blob/main/documents/NUTCRI_Live_2022_Poster.pdf">poster</a>)
 
 - **Myo-Guide: A new artificial intelligence MRI-based tool to aid diagnosis of patients with muscular dystrophies** (Co-Author), World Muscle Society (Copenhagen, Denmark), 1-5 Oct. 2019
 
