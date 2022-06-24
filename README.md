@@ -20,6 +20,10 @@ I'm developing my biomedical data scientist profile at <a href="https://www.ncl.
 
 - **Accuracy of a machine learning muscle MRI-based tool for the diagnosis of muscular dystrophies**, Neurology, 6 Feb. 2020, *DOI: https://doi.org/10.1212/WNL.0000000000009068*
 
+<h3>🖥 Software</h3>
+
+- **2Dstack2nifti**, Zenodo, 24 Jun. 2022, *DOI: https://doi.org/10.5281/zenodo.6719894*
+
 <h3>👨🏽‍💼 Congresses</h3>
 
 - **MRI muscle segmentation and muscle disease diagnosis with deep learning**, NUTCRI Live (Newcastle, UK), 27 May 2022 (<a href="https://github.com/Jose-Verdu-Diaz/Jose-Verdu-Diaz/blob/main/documents/NUTCRI_LIVE_2022.pdf">slides</a>)
